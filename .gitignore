@@ -1,0 +1,10 @@
+bin
+CMakeFiles
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+.cproject
+.project
+install_manifest.txt
+/vba
+/libvbacore.a
